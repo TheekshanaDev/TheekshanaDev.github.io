@@ -274,6 +274,8 @@ h6 {
 @media (min-width: 1024px) {
   #hero {
     background-attachment: fixed;
+   
+    
   }
 }
 
@@ -281,12 +283,15 @@ h6 {
   #hero h1 {
     font-size: 28px;
     line-height: 36px;
+    
+    
   }
 
   #hero h2 {
     font-size: 18px;
     line-height: 24px;
     margin-bottom: 30px;
+    
   }
 }
 
@@ -300,6 +305,7 @@ section {
 
 .section-bg {
   background: #f5f8fd;
+  
 }
 
 .section-title {
